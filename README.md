@@ -18,7 +18,6 @@ SpendWise is a simple web app to track daily expenses, add income, view balance,
 
 ## Live Netlify Website URL
 - Live Site: https://spendwise-mindaye.netlify.app
-- Note: Replace this link with your real Netlify link after you deploy
 
 ## Deployment Process Summary
 1. Reviewed project structure and ensured index.html, style.css and script.js were in the main folder.
